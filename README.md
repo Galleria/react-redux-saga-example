@@ -15,8 +15,12 @@ Form Dependency
 State Management 
 - Redux
 - Redux-Saga
+- Reselect
 
 Ajax Dependency
 - AXIOS
+
+Environment Mangagement
+- env-cmd
 
 WIP to update content....
